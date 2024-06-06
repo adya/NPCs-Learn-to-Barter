@@ -1,0 +1,13 @@
+{
+  "name": "nlb",
+  "version-string": "1.0.0",
+  "description": "A mod that makes NPCs Speech skill and perks affect bartering prices",
+  "homepage": "https://github.com/adya/NPCs-Learn-to-Barter.git",
+  "license": "GPL-3.0",
+  "dependencies": [
+    "boost-stl-interfaces",
+    "rsm-binary-io",
+    "spdlog",
+    "xbyak"
+  ]
+}

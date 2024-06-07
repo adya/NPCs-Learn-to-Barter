@@ -10,7 +10,7 @@ namespace NLB::Options
 	inline float maxDiscount = 0.15f;
 
 	// TODO: Use fMinBuyMult instead of this option.
-	inline float parityBaseline = 1.0f; // Baseline that offsets whole "fair" formula. This is the multiplier to be used when both partiers have the same skill.
+	inline float parityBaseline = 1.0f;  // Baseline that offsets whole "fair" formula. This is the multiplier to be used when both partiers have the same skill.
 
 	void Load();
 }
